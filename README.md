@@ -12,10 +12,10 @@ The model is a simple SEQ2SEQ model built with tensorflow. Note: Python 2.7 is r
 
 ## Requirements
 
-    `flask
+     flask
      tensorflow==0.12.1
      numpy
      math
      six
-    `
+    
 
